@@ -176,7 +176,7 @@ $isAdmin = ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIden
 ## 👨‍💻 作者信息
 
 - **作者**: Love Yun
-- **GitHub**: [sdlw7757/Windows 工具箱一键启动](https://github.com/Cotton059/Light-Help)
+- **GitHub**: [sdlw7757/Windows 工具箱一键启动](https://github.com/sdlw7757/Windows-Toolbox)
 
 ---
 
