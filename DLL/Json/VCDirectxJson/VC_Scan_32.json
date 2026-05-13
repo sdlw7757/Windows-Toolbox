@@ -1,0 +1,74 @@
+[
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2005 Redistributable",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2008 Redistributable - x86 9.*",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2010  x86 Redistributable - 10.*",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2012 Redistributable (x86) - 11.*",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2012 x86 Additional Runtime - 11.*",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.*",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2013 Redistributable (x86) - 12.*",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.*",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2013 x86 Additional Runtime - 12.*",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.*",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2022 X86 Additional Runtime - 14.*",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"DISPLAYNAME":"Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.*",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+}
+]

@@ -1,0 +1,1002 @@
+[
+    {
+        "FILENAME": "atl100.dll",
+        "FILEPATH": "C:\\Windows\\System32\\atl100.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/atl100.dll"
+    },
+    {
+        "FILENAME": "atl110.dll",
+        "FILEPATH": "C:\\Windows\\System32\\atl110.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/atl110.dll"
+    },
+    {
+        "FILENAME": "concrt140.dll",
+        "FILEPATH": "C:\\Windows\\System32\\concrt140.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/concrt140.dll"
+    },
+    {
+        "FILENAME": "mfc100.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100.dll"
+    },
+    {
+        "FILENAME": "mfc100chs.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100chs.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100chs.dll"
+    },
+    {
+        "FILENAME": "mfc100cht.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100cht.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100cht.dll"
+    },
+    {
+        "FILENAME": "mfc100deu.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100deu.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100deu.dll"
+    },
+    {
+        "FILENAME": "mfc100enu.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100enu.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100enu.dll"
+    },
+    {
+        "FILENAME": "mfc100esn.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100esn.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100esn.dll"
+    },
+    {
+        "FILENAME": "mfc100fra.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100fra.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100fra.dll"
+    },
+    {
+        "FILENAME": "mfc100ita.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100ita.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100ita.dll"
+    },
+    {
+        "FILENAME": "mfc100jpn.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100jpn.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100jpn.dll"
+    },
+    {
+        "FILENAME": "mfc100kor.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100kor.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100kor.dll"
+    },
+    {
+        "FILENAME": "mfc100rus.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100rus.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100rus.dll"
+    },
+    {
+        "FILENAME": "mfc100u.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc100u.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc100u.dll"
+    },
+    {
+        "FILENAME": "mfc110.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110.dll"
+    },
+    {
+        "FILENAME": "mfc110chs.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110chs.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110chs.dll"
+    },
+    {
+        "FILENAME": "mfc110cht.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110cht.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110cht.dll"
+    },
+    {
+        "FILENAME": "mfc110deu.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110deu.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110deu.dll"
+    },
+    {
+        "FILENAME": "mfc110enu.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110enu.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110enu.dll"
+    },
+    {
+        "FILENAME": "mfc110esn.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110esn.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110esn.dll"
+    },
+    {
+        "FILENAME": "mfc110fra.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110fra.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110fra.dll"
+    },
+    {
+        "FILENAME": "mfc110ita.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110ita.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110ita.dll"
+    },
+    {
+        "FILENAME": "mfc110jpn.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110jpn.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110jpn.dll"
+    },
+    {
+        "FILENAME": "mfc110kor.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110kor.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110kor.dll"
+    },
+    {
+        "FILENAME": "mfc110rus.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110rus.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110rus.dll"
+    },
+    {
+        "FILENAME": "mfc110u.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc110u.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc110u.dll"
+    },
+    {
+        "FILENAME": "mfc120.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120.dll"
+    },
+    {
+        "FILENAME": "mfc120chs.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120chs.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120chs.dll"
+    },
+    {
+        "FILENAME": "mfc120cht.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120cht.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120cht.dll"
+    },
+    {
+        "FILENAME": "mfc120deu.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120deu.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120deu.dll"
+    },
+    {
+        "FILENAME": "mfc120enu.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120enu.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120enu.dll"
+    },
+    {
+        "FILENAME": "mfc120esn.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120esn.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120esn.dll"
+    },
+    {
+        "FILENAME": "mfc120fra.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120fra.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120fra.dll"
+    },
+    {
+        "FILENAME": "mfc120ita.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120ita.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120ita.dll"
+    },
+    {
+        "FILENAME": "mfc120jpn.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120jpn.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120jpn.dll"
+    },
+    {
+        "FILENAME": "mfc120kor.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120kor.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120kor.dll"
+    },
+    {
+        "FILENAME": "mfc120rus.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120rus.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120rus.dll"
+    },
+    {
+        "FILENAME": "mfc120u.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc120u.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc120u.dll"
+    },
+    {
+        "FILENAME": "mfc140.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140.dll"
+    },
+    {
+        "FILENAME": "mfc140chs.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140chs.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140chs.dll"
+    },
+    {
+        "FILENAME": "mfc140cht.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140cht.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140cht.dll"
+    },
+    {
+        "FILENAME": "mfc140deu.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140deu.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140deu.dll"
+    },
+    {
+        "FILENAME": "mfc140enu.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140enu.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140enu.dll"
+    },
+    {
+        "FILENAME": "mfc140esn.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140esn.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140esn.dll"
+    },
+    {
+        "FILENAME": "mfc140fra.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140fra.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140fra.dll"
+    },
+    {
+        "FILENAME": "mfc140ita.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140ita.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140ita.dll"
+    },
+    {
+        "FILENAME": "mfc140jpn.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140jpn.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140jpn.dll"
+    },
+    {
+        "FILENAME": "mfc140kor.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140kor.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140kor.dll"
+    },
+    {
+        "FILENAME": "mfc140rus.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140rus.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140rus.dll"
+    },
+    {
+        "FILENAME": "mfc140u.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfc140u.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfc140u.dll"
+    },
+    {
+        "FILENAME": "mfcm100.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfcm100.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfcm100.dll"
+    },
+    {
+        "FILENAME": "mfcm100u.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfcm100u.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfcm100u.dll"
+    },
+    {
+        "FILENAME": "mfcm110.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfcm110.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfcm110.dll"
+    },
+    {
+        "FILENAME": "mfcm110u.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfcm110u.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfcm110u.dll"
+    },
+    {
+        "FILENAME": "mfcm120.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfcm120.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfcm120.dll"
+    },
+    {
+        "FILENAME": "mfcm120u.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfcm120u.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfcm120u.dll"
+    },
+    {
+        "FILENAME": "mfcm140.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfcm140.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfcm140.dll"
+    },
+    {
+        "FILENAME": "mfcm140u.dll",
+        "FILEPATH": "C:\\Windows\\System32\\mfcm140u.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/mfcm140u.dll"
+    },
+    {
+        "FILENAME": "msvcp100.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msvcp100.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msvcp100.dll"
+    },
+    {
+        "FILENAME": "msvcp110.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msvcp110.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msvcp110.dll"
+    },
+    {
+        "FILENAME": "msvcp120.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msvcp120.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msvcp120.dll"
+    },
+    {
+        "FILENAME": "msvcp140.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msvcp140.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msvcp140.dll"
+    },
+    {
+        "FILENAME": "msvcp140_1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msvcp140_1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msvcp140_1.dll"
+    },
+    {
+        "FILENAME": "msvcp140_2.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msvcp140_2.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msvcp140_2.dll"
+    },
+    {
+        "FILENAME": "msvcp140_codecvt_ids.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msvcp140_codecvt_ids.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msvcp140_codecvt_ids.dll"
+    },
+    {
+        "FILENAME": "msvcr100.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msvcr100.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msvcr100.dll"
+    },
+    {
+        "FILENAME": "msvcr110.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msvcr110.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msvcr110.dll"
+    },
+    {
+        "FILENAME": "msvcr120.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msvcr120.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msvcr120.dll"
+    },
+    {
+        "FILENAME": "msxml4.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msxml4.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msxml4.dll"
+    },
+    {
+        "FILENAME": "msxml4r.dll",
+        "FILEPATH": "C:\\Windows\\System32\\msxml4r.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/msxml4r.dll"
+    },
+    {
+        "FILENAME": "OpenAL32.dll",
+        "FILEPATH": "C:\\Windows\\System32\\OpenAL32.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/OpenAL32.dll"
+    },
+    {
+        "FILENAME": "vcamp110.dll",
+        "FILEPATH": "C:\\Windows\\System32\\vcamp110.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/vcamp110.dll"
+    },
+    {
+        "FILENAME": "vcamp120.dll",
+        "FILEPATH": "C:\\Windows\\System32\\vcamp120.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/vcamp120.dll"
+    },
+    {
+        "FILENAME": "vcamp140.dll",
+        "FILEPATH": "C:\\Windows\\System32\\vcamp140.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/vcamp140.dll"
+    },
+    {
+        "FILENAME": "vccorlib110.dll",
+        "FILEPATH": "C:\\Windows\\System32\\vccorlib110.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/vccorlib110.dll"
+    },
+    {
+        "FILENAME": "vccorlib120.dll",
+        "FILEPATH": "C:\\Windows\\System32\\vccorlib120.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/vccorlib120.dll"
+    },
+    {
+        "FILENAME": "vccorlib140.dll",
+        "FILEPATH": "C:\\Windows\\System32\\vccorlib140.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/vccorlib140.dll"
+    },
+    {
+        "FILENAME": "vcomp100.dll",
+        "FILEPATH": "C:\\Windows\\System32\\vcomp100.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/vcomp100.dll"
+    },
+    {
+        "FILENAME": "vcomp110.dll",
+        "FILEPATH": "C:\\Windows\\System32\\vcomp110.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/vcomp110.dll"
+    },
+    {
+        "FILENAME": "vcomp120.dll",
+        "FILEPATH": "C:\\Windows\\System32\\vcomp120.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/vcomp120.dll"
+    },
+    {
+        "FILENAME": "vcomp140.dll",
+        "FILEPATH": "C:\\Windows\\System32\\vcomp140.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/vcomp140.dll"
+    },
+    {
+        "FILENAME": "vcruntime140.dll",
+        "FILEPATH": "C:\\Windows\\System32\\vcruntime140.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/vcruntime140.dll"
+    },
+    {
+        "FILENAME": "WindowsAccessBridge-32.dll",
+        "FILEPATH": "C:\\Windows\\System32\\WindowsAccessBridge-32.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/WindowsAccessBridge-32.dll"
+    },
+    {
+        "FILENAME": "wrap_oal.dll",
+        "FILEPATH": "C:\\Windows\\System32\\wrap_oal.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/wrap_oal.dll"
+    },
+    {
+        "FILENAME": "xlive.dll",
+        "FILEPATH": "C:\\Windows\\System32\\xlive.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/xlive.dll"
+    },
+    {
+        "FILENAME": "xlivefnt.dll",
+        "FILEPATH": "C:\\Windows\\System32\\xlivefnt.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/xlivefnt.dll"
+    },
+    {
+        "FILENAME": "xliveinstall.dll",
+        "FILEPATH": "C:\\Windows\\System32\\xliveinstall.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/xliveinstall.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-base-util-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-base-util-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-base-util-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-com-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-com-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-com-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-comm-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-comm-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-comm-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-console-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-console-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-console-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-datetime-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-datetime-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-datetime-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-datetime-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-datetime-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-datetime-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-debug-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-debug-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-debug-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-debug-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-debug-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-debug-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-delayload-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-delayload-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-delayload-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-errorhandling-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-errorhandling-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-errorhandling-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-errorhandling-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-errorhandling-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-errorhandling-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-fibers-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-fibers-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-fibers-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-fibers-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-fibers-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-fibers-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-file-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-file-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-file-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-file-l1-2-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-file-l1-2-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-file-l1-2-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-file-l1-2-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-file-l1-2-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-file-l1-2-1.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-core-file-l2-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-core-file-l2-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-core-file-l2-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-handle-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-handle-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-handle-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-heap-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-heap-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-heap-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-Core-Heap-Obsolete-L1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-Core-Heap-Obsolete-L1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-Core-Heap-Obsolete-L1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-interlocked-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-interlocked-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-interlocked-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-io-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-io-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-io-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-io-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-io-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-io-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-kernel32-legacy-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-kernel32-legacy-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-kernel32-legacy-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-kernel32-legacy-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-kernel32-legacy-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-kernel32-legacy-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-Core-Kernel32-Private-L1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-Core-Kernel32-Private-L1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-Core-Kernel32-Private-L1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-Core-Kernel32-Private-L1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-Core-Kernel32-Private-L1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-Core-Kernel32-Private-L1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-libraryloader-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-libraryloader-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-libraryloader-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-libraryloader-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-libraryloader-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-libraryloader-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-localization-l1-2-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-localization-l1-2-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-localization-l1-2-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-localization-l1-2-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-localization-l1-2-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-localization-l1-2-1.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-core-localization-obsolete-l1-2-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-core-localization-obsolete-l1-2-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-core-localization-obsolete-l1-2-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-memory-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-memory-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-memory-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-memory-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-memory-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-memory-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-memory-l1-1-2.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-memory-l1-1-2.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-memory-l1-1-2.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-namedpipe-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-namedpipe-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-namedpipe-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-privateprofile-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-privateprofile-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-privateprofile-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-privateprofile-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-privateprofile-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-privateprofile-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-processenvironment-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-processenvironment-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-processenvironment-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-processenvironment-l1-2-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-processenvironment-l1-2-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-processenvironment-l1-2-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-processthreads-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-processthreads-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-processthreads-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-processthreads-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-processthreads-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-processthreads-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-processthreads-l1-1-2.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-processthreads-l1-1-2.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-processthreads-l1-1-2.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-processtopology-obsolete-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-processtopology-obsolete-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-processtopology-obsolete-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-profile-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-profile-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-profile-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-realtime-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-realtime-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-realtime-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-registry-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-registry-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-registry-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-registry-l2-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-registry-l2-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-registry-l2-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-rtlsupport-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-rtlsupport-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-rtlsupport-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-shlwapi-legacy-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-shlwapi-legacy-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-shlwapi-legacy-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-shlwapi-obsolete-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-shlwapi-obsolete-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-shlwapi-obsolete-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-shutdown-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-shutdown-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-shutdown-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-string-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-string-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-string-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-core-string-l2-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-core-string-l2-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-core-string-l2-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-core-string-obsolete-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-core-string-obsolete-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-core-string-obsolete-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-stringansi-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-stringansi-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-stringansi-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-stringloader-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-stringloader-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-stringloader-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-synch-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-synch-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-synch-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-synch-l1-2-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-synch-l1-2-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-synch-l1-2-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-sysinfo-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-sysinfo-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-sysinfo-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-sysinfo-l1-2-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-sysinfo-l1-2-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-sysinfo-l1-2-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-sysinfo-l1-2-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-sysinfo-l1-2-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-sysinfo-l1-2-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-threadpool-l1-2-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-threadpool-l1-2-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-threadpool-l1-2-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-threadpool-legacy-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-threadpool-legacy-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-threadpool-legacy-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-threadpool-private-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-threadpool-private-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-threadpool-private-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-timezone-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-timezone-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-timezone-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-url-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-url-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-url-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-util-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-util-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-util-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-version-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-version-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-version-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-wow64-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-wow64-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-wow64-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-core-xstate-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-core-xstate-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-core-xstate-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-core-xstate-l2-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-core-xstate-l2-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-core-xstate-l2-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-conio-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-conio-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-conio-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-convert-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-convert-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-convert-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-environment-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-environment-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-environment-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-filesystem-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-filesystem-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-filesystem-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-heap-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-heap-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-heap-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-locale-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-locale-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-locale-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-math-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-math-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-math-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-multibyte-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-multibyte-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-multibyte-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-private-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-private-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-private-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-process-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-process-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-process-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-runtime-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-runtime-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-runtime-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-stdio-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-stdio-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-stdio-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-string-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-string-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-string-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-time-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-time-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-time-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-crt-utility-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-crt-utility-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-crt-utility-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-devices-config-L1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-devices-config-L1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-devices-config-L1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-devices-config-L1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-devices-config-L1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-devices-config-L1-1-1.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-Eventing-ClassicProvider-L1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-Eventing-ClassicProvider-L1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-Eventing-ClassicProvider-L1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-eventing-consumer-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-eventing-consumer-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-eventing-consumer-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-Eventing-Controller-L1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-Eventing-Controller-L1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-Eventing-Controller-L1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-Eventing-Legacy-L1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-Eventing-Legacy-L1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-Eventing-Legacy-L1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-Eventing-Provider-L1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-Eventing-Provider-L1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-Eventing-Provider-L1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-EventLog-Legacy-L1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-EventLog-Legacy-L1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-EventLog-Legacy-L1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-security-base-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-security-base-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-security-base-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-security-cryptoapi-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-security-cryptoapi-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-security-cryptoapi-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-Security-Lsalookup-L2-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-Security-Lsalookup-L2-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-Security-Lsalookup-L2-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-Security-Lsalookup-L2-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-Security-Lsalookup-L2-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-Security-Lsalookup-L2-1-1.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-security-lsapolicy-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-security-lsapolicy-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-security-lsapolicy-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "API-MS-Win-security-provider-L1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\API-MS-Win-security-provider-L1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/API-MS-Win-security-provider-L1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-security-sddl-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-security-sddl-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-security-sddl-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-service-core-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-service-core-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-service-core-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-service-core-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-service-core-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-service-core-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-service-management-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-service-management-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-service-management-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-service-management-l2-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-service-management-l2-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-service-management-l2-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-service-private-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-service-private-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-service-private-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-service-private-l1-1-1.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-service-private-l1-1-1.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-service-private-l1-1-1.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-service-winsvc-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-service-winsvc-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-service-winsvc-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-shcore-stream-l1-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-shcore-stream-l1-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-shcore-stream-l1-1-0.dll"
+    },
+    {
+        "FILENAME": "ucrtbase.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\ucrtbase.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/ucrtbase.dll"
+    },
+    {
+        "FILENAME": "api-ms-win-downlevel-kernel32-l2-1-0.dll",
+        "FILEPATH": "C:\\Windows\\System32\\downlevel\\api-ms-win-downlevel-kernel32-l2-1-0.dll",
+        "DOWNLOAD": "http://download.niuxuezhang.cn/downloads/DLL/SystemDll/Windows/SysWOW64/api-ms-win-downlevel-kernel32-l2-1-0.dll"
+    }
+]

@@ -1,0 +1,58 @@
+[
+{
+"DISPLAYVERIONS":"Microsoft .NET Framework 4.8",
+"DISPLAYNAME":"0",
+"WOW6432NODE":"0",
+"COMMANDLINE":"/q /norestart",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/NETFramework/4.8/ndp48.exe",
+"FILEPATH":"X:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\System.dll"
+},
+{
+"DISPLAYVERIONS":"Microsoft .NET Runtime - 6.0.10 (x86)",
+"DISPLAYNAME":"Microsoft .NET Runtime - 6.* (x86)",
+"WOW6432NODE":"??? ",
+"COMMANDLINE":"/q /norestart",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/NETFramework/6.0/dotnet-runtime-6.0.10-win-x86.exe",
+"FILEPATH":"0"
+},
+{
+"DISPLAYVERIONS":"Microsoft Windows Desktop Runtime - 6.0.10 (x86)",
+"DISPLAYNAME":"Microsoft Windows Desktop Runtime - 6.* (x86)",
+"WOW6432NODE":"??? ",
+"COMMANDLINE":"/q /norestart",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/NETFramework/6.0/windowsdesktop-runtime-6.0.10-win-x86.exe",
+"FILEPATH":"0"
+},
+{
+"DISPLAYVERIONS":"Microsoft .NET Runtime - 7.0.4 (x86)",
+"DISPLAYNAME":"Microsoft .NET Runtime - 7.* (x86)",
+"WOW6432NODE":"??? ",
+"COMMANDLINE":"/q /norestart",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/NETFramework/7.0/dotnet-runtime-7.0.4-win-x86.exe",
+"FILEPATH":"0"
+},
+{
+"DISPLAYVERIONS":"Microsoft Windows Desktop Runtime - 7.0.4 (x86)",
+"DISPLAYNAME":"Microsoft Windows Desktop Runtime - 7.* (x86)",
+"WOW6432NODE":"??? ",
+"COMMANDLINE":"/q /norestart",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/NETFramework/7.0/windowsdesktop-runtime-7.0.4-win-x86.exe",
+"FILEPATH":"0"
+},
+{
+"DISPLAYVERIONS":"Microsoft .NET Runtime - 8.0.0 Preview 2 (x86)",
+"DISPLAYNAME":"Microsoft .NET Runtime - 8.* Preview 2 (x86)",
+"WOW6432NODE":"??? ",
+"COMMANDLINE":"/q /norestart",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/NETFramework/8.0/dotnet-runtime-8.0.0-preview.2.23128.3-win-x86.exe",
+"FILEPATH":"0"
+},
+{
+"DISPLAYVERIONS":"Microsoft Windows Desktop Runtime - 8.0.0 Preview 2 (x86)",
+"DISPLAYNAME":"Microsoft Windows Desktop Runtime - 8.* Preview 2 (x86)",
+"WOW6432NODE":"??? ",
+"COMMANDLINE":"/q /norestart",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/NETFramework/8.0/windowsdesktop-runtime-8.0.0-preview.2.23128.5-win-x86.exe",
+"FILEPATH":"0"
+}
+]

@@ -1,0 +1,1436 @@
+[
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\ATL80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80ESP.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFCM80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFCM80U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCM80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCP80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCR80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\VCOMP.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\ATL90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90ESN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90ESP.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90RUS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFCM90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFCM90U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCM90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCP90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCR90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\VCOMP90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x64.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\ATL100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100ESN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100RUS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC100U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFCM100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFCM100U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MSVCP100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MSVCR100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCOMP100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\ATL110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110ESN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110RUS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFCM110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFCM110U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MSVCP110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MSVCR110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCAMP110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCCORLIB110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCOMP110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC120CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC120CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC110DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC120ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC120ESN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC120FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC120ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC120JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC120KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC120RUS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC120U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFCM120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFCM120U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MSVCP120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MSVCR120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCAMP120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCCORLIB120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCOMP120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\CONCRT140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140ESN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140RUS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFC140U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFCM140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MFCM140U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MSVCP140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MSVCP140_1.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MSVCP140_2.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MSVCP140_ATOMIC_WAIT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\MSVCP140_CODECVT_IDS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCAMP140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCCORLIB140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCOMP140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCRUNTIME140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\System32\\VCRUNTIME140_1.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x64",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x64.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\ATL80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80ESP.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC80U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFCM80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFCM80U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCM80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCP80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCR80.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\VCOMP.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2005 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2005/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\ATL90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90ESN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90ESP.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90RUS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFC90U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFCM90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MFCM90U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCM90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCP90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\MSVCR90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\WINSXS\\*\\VCOMP90.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2008 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2008/vcredist_x86.exe",
+"COMMANDLINE":"/q"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\ATL100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100ESN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100RUS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC100U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFCM100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFCM100U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MSVCP100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MSVCR100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\VCOMP100.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2010 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2010/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\ATL110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110ESN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110RUS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFCM110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFCM110U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MSVCP110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MSVCR110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\VCAMP110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\VCCORLIB110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\VCOMP110.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2012 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2012/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC120CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC120CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC110DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC120ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC120ESN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC120FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC120ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC120JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC120KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC120RUS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC120U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFCM120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFCM120U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MSVCP120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MSVCR120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\VCAMP120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\VCCORLIB120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\VCOMP120.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2013 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc2013/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\CONCRT140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140CHS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140CHT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140DEU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140ENU.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140ESN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140FRA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140ITA.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140JPN.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140KOR.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140RUS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFC140U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFCM140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MFCM140U.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MSVCP140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MSVCP140_1.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MSVCP140_2.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MSVCP140_ATOMIC_WAIT.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\MSVCP140_CODECVT_IDS.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\VCAMP140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\VCCORLIB140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\VCOMP140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+},
+{
+"MATCH":"*:\\WINDOWS\\SysWOW64\\VCRUNTIME140.DLL",
+"DISPLAYVERIONS":"Microsoft Visual C++ 2015-2022 x86",
+"DOWNLOAD":"https://download.niuxuezhang.cn/downloads/DLL/VC/vc1522/vcredist_x86.exe",
+"COMMANDLINE":"/q /norestart"
+}
+]
